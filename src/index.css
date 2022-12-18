@@ -74,8 +74,8 @@ a {
 
 :root {
   --background-color: #FFFFF7;
-  --color: #444444;
-  --color-button: #1D628B;
-  --color-label: #73B1D6;
-  --color-input: #4589B0;
+  --color:#1e91d3;
+  --color-button:#00a2ff;
+  --color-label: #1e91d3;
+  --color-input: #fbe98f;
 }
